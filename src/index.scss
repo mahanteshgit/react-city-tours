@@ -7,11 +7,10 @@
  $mainBlack: #222222;
  $mainWhite: #ffffff;
  $mainGreen: #82b340;
- $mainGrey: #ececec;
- $mainOrange: #FF4500;
+ $mainGrey: #ececec; 
 
  body{
-     background: $mainOrange;
+     background: $mainWhite;
      color: $mainBlack;
      font-family: 'Open Sans', sans-serif;
  }
